@@ -12,7 +12,8 @@
 import HelloWorld from './components/HelloWorld.vue'
 import Navigasi from './components/Navigasi.vue'
 import Home from './components/Home.vue'
-import Navbar from './components/includes/Navbar.vue'
+// import Navbar from './components/includes/Navbar.vue'
+import Navbar from './components/layouts/Navbar.vue'
 
 export default {
   name: 'App',
